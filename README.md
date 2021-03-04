@@ -4,4 +4,4 @@
 
 ## 系列文章
 
-[未来人类意识能否移植](https://github.com/yuzheng0917/brain-hole/technology/consciousness-out-of-brain.md)
+[未来人类意识能否移植](https://github.com/yuzheng0917/brain-hole/blob/main/technology/consciousness-out-of-brain.md)
