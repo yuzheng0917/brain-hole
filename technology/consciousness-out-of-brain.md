@@ -12,6 +12,8 @@
 
 ## 二、意识能够复制
 
+![未来文明进化](https://github.com/yuzheng0917/brain-hole/blob/main/technology/images/civilization_evolution.jpg)
+
 未来科学家若完全弄清楚了人脑的架构和运转方式，拷贝意识到新的载体是完全有可能的，且可以无限复制。若新载体的空间结构更先进，信息传递更高效，记忆存储更持久，到那时人类的智力将永恒进化。
 
 至于能不能进化到更高级的文明，那只能取决于天命了。
