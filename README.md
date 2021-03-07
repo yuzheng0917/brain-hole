@@ -5,3 +5,5 @@
 ## 系列文章
 
 [未来人类意识能否移植](https://github.com/yuzheng0917/brain-hole/blob/main/technology/consciousness-out-of-brain.md)
+
+[有没有永恒的存在](https://github.com/yuzheng0917/brain-hole/blob/main/technology/eternal-existence.md)
