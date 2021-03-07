@@ -6,10 +6,12 @@
 
 欢迎讨论和分享；或许无意间你的一个遐想能重新点燃人类的思想火炬，或许不经意间你的一个科技脑洞能够引爆未来科技革命，或许你的一个金融脑洞能使得未来人类金融攀登到新的高峰，让我们一起脑洞奔放吧！
 
-若您有兴趣，可订阅天极脑洞公众号。
-
 ## 系列文章
 
 [未来人类意识能否移植](https://github.com/yuzheng0917/brain-hole/blob/main/technology/consciousness-out-of-brain.md)
 
 [有没有永恒的存在](https://github.com/yuzheng0917/brain-hole/blob/main/technology/eternal-existence.md)
+
+若您有兴趣，欢迎关注天极脑洞公众号。
+
+![公众号二维码](https://github.com/yuzheng0917/brain-hole/blob/main/technology/images/qrcode.jpg)
