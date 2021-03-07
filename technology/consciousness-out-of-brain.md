@@ -1,6 +1,6 @@
 # 未来人类意识能否移植
 
-![未来大脑]('./images/brain.png')
+![未来大脑](https://github.com/yuzheng0917/brain-hole/blob/main/technology/images/brain.jpg)
 
 ## 一、意识不能脱离载体而存在
 
